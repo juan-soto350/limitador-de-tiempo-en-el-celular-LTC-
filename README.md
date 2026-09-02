@@ -22,6 +22,7 @@ Posiblemente estara listo a final del 2026.
 ## Getting Started
 
 De momento solo se inicara con el siguiente comando: 
+
 bash
 '''
 flutter run -d chrome
