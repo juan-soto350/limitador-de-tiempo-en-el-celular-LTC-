@@ -24,9 +24,9 @@ Posiblemente estara listo a final del 2026.
 De momento solo se inicara con el siguiente comando: 
 
 bash
-'''
+```
 flutter run -d chrome
-'''
+```
 
 porque digo de momento? pues de momento porque esta va dirigido a los celulares principalmente
 para ANDROID ya que por lo poco que se para desarrollar en IOS es necesario una maquina nativa para poder compilar el codigo para IOS
